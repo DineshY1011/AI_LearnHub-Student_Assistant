@@ -87,13 +87,3 @@ AI_LearnHub/
 - **Track Progress:** View your XP, streaks, and completed lessons on the dashboard.
 
 ---
-
-## Security Notes
-- **Never commit real API keys to your repository.**
-- Always use environment variables for sensitive data.
-- Add `.env` to your `.gitignore`.
-
----
-
-## License
-[MIT](LICENSE)
